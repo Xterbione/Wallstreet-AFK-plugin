@@ -1,0 +1,8 @@
+name: wallstreetafk
+version: 1.0
+author: xterbione
+main: ml.xterbione.afk.Main
+description: afk plugin by xterbione
+commands:
+  afk:
+   description: sets player afk
